@@ -1,7 +1,7 @@
 # Abhishek Jha ([@speedily](https://github.com/speedily))
 
 **Senior Website Developer – Full Stack**  
-🔗 Kolkata, India | 🌍 Available for Remote & On‑site | 📧 hello@abhishekjha.com  
+🔗 Kolkata, India | 🌍 Available for Remote & On‑site   
 [LinkedIn](https://www.linkedin.com/in/speedily) • [Portfolio](https://www.abhishekjha.com)
 
 ---
@@ -51,7 +51,7 @@ Spring Boot Microservices (Google Cloud), Java Full Stack (Board Infinity), Crew
 - 👯 I’m looking to collaborate on: Blockchain, GPT-based plugins, Agent Ops  
 - 🤔 I’m looking for help with: Open source adoption and monetization  
 - 💬 Ask me about: WordPress internals, serverless deployments, hybrid CMS, API integrations, crypto-payments  
-- 📫 How to reach me: hello@abhishekjha.com or [LinkedIn](https://www.linkedin.com/in/speedily)  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/speedily)  
 - 😄 Pronouns: he/him  
 - ⚡ Fun fact: I’ve helped a foundation get ₹1.5 Crore in grants by delivering code that was pending for 2 years—in just 30 days.
 
