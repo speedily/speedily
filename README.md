@@ -57,9 +57,7 @@ Spring Boot Microservices (Google Cloud), Java Full Stack (Board Infinity), Crew
 
 ---
 
-## 📊 GitHub Stats (Optional)
-
-> _Uncomment the lines below if you want live stats shown on your profile._
+## 📊 GitHub Stats 
 
 ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=speedily&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=speedily&layout=compact&theme=tokyonight)](https://github.com/speedily)
