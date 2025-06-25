@@ -32,15 +32,15 @@ Spring Boot Microservices (Google Cloud), Java Full Stack (Board Infinity), Crew
 - **[Vedic Numerology DApp](https://cosmicnumerology.vercel.app)** – Web3 numerology tool  
 - **[Biskfarm.com](https://biskfarm.com)** – WordPress site for FMCG brand  
 - **[TechXavvy.com](https://TechXavvy.com)** – iPhone on EMI (WordPress + ACF)  
-- **[IlusionFlamenca.co.uk](https://IlusionFlamenca.co.uk)** – Flamenco dancewear store  
+- **[IlusionFlamenca.co.uk](https://IlusionFlamenca.co.uk)** – Flamenco dance class store  
 - **[BespokeSofaLondon.co.uk](https://BespokeSofaLondon.co.uk)** – Luxury sofa storefront  
 - **[ThinkingBug.com](https://thinkingbug.com)** – Web publishing portal  
 - **[FriendlyFreds.com.au](https://friendlyfreds.com.au)** – Australian online platform  
 - **[Check-mail.org Wordpress Plugin](https://abhishekjha3.gumroad.com/l/checkmail)** – Email Validator Plugin w/ RapidAPI  
 - **[BitEdu](https://abhishekjha3.gumroad.com/l/bitedu)** – ReactJS education theme  
 - **[SheLancer](https://abhishekjha3.gumroad.com/l/shelancer)** – WordPress portfolio theme  
-- **[WordPress Auto Installer](https://github.com/speedily/wordpressinstallationsystem)** – Hosting automation  
-- **[KMES Mobile App](https://web.archive.org/web/20160618141314/https://play.google.com/store/apps/details?id=in.kmes.androidapp)** – Offline health records for NGOs
+- **[WordPress Auto Installer](https://github.com/speedily/wordpressinstallationsystem)** – Hosting automation For Wordpress  
+- **[KMES Mobile App](https://web.archive.org/web/20160618141314/https://play.google.com/store/apps/details?id=in.kmes.androidapp)** – AIIMS Award Winning Search Engine for Kolkata Hospital Ambulances Bloodbanks in 1 Place
 
 ---
 
