@@ -36,7 +36,7 @@ Spring Boot Microservices (Google Cloud), Java Full Stack (Board Infinity), Crew
 - **[BespokeSofaLondon.co.uk](https://BespokeSofaLondon.co.uk)** – Luxury sofa storefront  
 - **[ThinkingBug.com](https://thinkingbug.com)** – Web publishing portal  
 - **[FriendlyFreds.com.au](https://friendlyfreds.com.au)** – Australian online platform  
-- **Check-mail.org** – Email Validator Plugin w/ RapidAPI  
+- **[Check-mail.org Wordpress Plugin](https://abhishekjha3.gumroad.com/l/checkmail)** – Email Validator Plugin w/ RapidAPI  
 - **[BitEdu](https://abhishekjha3.gumroad.com/l/bitedu)** – ReactJS education theme  
 - **[SheLancer](https://abhishekjha3.gumroad.com/l/shelancer)** – WordPress portfolio theme  
 - **[WordPress Auto Installer](https://github.com/speedily/wordpressinstallationsystem)** – Hosting automation  
