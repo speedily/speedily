@@ -3,7 +3,7 @@
 **Senior Website Developer – Full Stack**  
 🔗 Kolkata, India | 🌍 Available for Remote & On‑site   
 [LinkedIn](https://www.linkedin.com/in/speedily) • [Portfolio](https://www.abhishekjha.com)
-
+• [Whatsapp](http://wa.link/gy4vdc) • [Paypal Payment Link](https://paypal.me/helloabhishek)
 ---
 
 ## 👨‍💻 About Me
